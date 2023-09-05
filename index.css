@@ -1,0 +1,24 @@
+canvas {
+  border: 4px solid black;
+}
+
+.button {
+  margin-top: 9px;
+  height: 40px;
+  width: 100%;
+  display: flex;
+
+  /* // justify-content: space-around; */
+}
+#hit {
+  margin-left: 70%;
+  height: 30px;
+  width: 100px;
+  box-shadow: 2px 5px black;
+}
+#reset {
+  margin-left: 8px;
+  height: 30px;
+  width: 100px;
+  box-shadow: 2px 5px black;
+}
